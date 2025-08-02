@@ -1,4 +1,4 @@
-# ai-agent
+# AI-Agent
 # 🧠 Multitool AI Agent for Reasoning and Information Extraction
 # 📌 Project Overview
 This project implements a simple but powerful AI Agent that simulates reasoning over multiple tools to answer natural language queries. The agent selects from a predefined set of tools like mathematical calculation, string operations, capital city retrieval, and factual lookups to compute the final answer in a step-by-step format, mimicking the behavior of interpretable autonomous AI systems.
